@@ -1,0 +1,16 @@
+.navbar li {
+    display: inline-block;
+    color: white
+}
+  
+.navbar{
+    background-color: lightcoral
+}
+
+.brand {
+    text-align: left
+}
+
+.li h2 {
+    text-align: right
+}
