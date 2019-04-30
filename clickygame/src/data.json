@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/MichaelScott.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://thoughtcatalog.files.wordpress.com/2015/01/screen-shot-2015-01-21-at-3-27-37-pm.png?w=786&h=518",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2017-08/9/11/asset/buzzfeed-prod-fastlane-01/sub-buzz-22381-1502291405-3.jpg?downsize=700:*&output-format=auto&output-quality=auto",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Pam_Beesley.jpg/220px-Pam_Beesley.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://articlebio.com/uploads/bio/2018/01/16/creed-bratton.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://i.ytimg.com/vi/mJmXflirGpM/hqdefault.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Stanley_Hudson.jpg/245px-Stanley_Hudson.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://pbs.twimg.com/profile_images/2782329092/a61fe8f72b93fde0d785e77ea4a7107f_400x400.jpeg",
+    "clicked": false
+  }
+]
